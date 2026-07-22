@@ -47,11 +47,13 @@ An interactive web application designed to help students understand data structu
 - Contribute to the developer community.
 - Land my first software engineering role.
 
+<!--
 ---
 
 ## Highlights
 
 Coming soon...
+-->
 
 ---
 
