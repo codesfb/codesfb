@@ -35,8 +35,6 @@ These are the technologies I use most often:
 
 An interactive web application designed to help students understand data structures and algorithms through animations.
 
-> _(Update the link below when the repository is public.)_
-
 - Repository: https://github.com/codesfb/algorithms-v
 
 ---
