@@ -1,8 +1,22 @@
 ## Hi there 👋
 
+My name is Fábio.
+
+I'm a brazilian software engenear student.
+
+My goal is to create software to help the most people i can.
+
+To be honest i don't really care about languages, i care about creating solutions and soving problems
+
+Here are the Tecnologies and languages i use most the most.
+
+## Tecnologias
+
+<img src="https://skillicons.dev/icons?i=c,java,react,ts,js,python,c,git,linux,sql,lua" />
+
 <!--
 **codesfb/codesfb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+ 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
