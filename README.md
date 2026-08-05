@@ -1,4 +1,4 @@
-# Hi there! 👋
+# Hi! 👋
 
 I'm **Fabio**, a Brazilian Software Engineering student and full-stack developer.
 
