@@ -5,9 +5,8 @@
 I'm a Brazilian Software Engineering student and full-stack developer. I enjoy building software that solves real problems and learning new technologies along the way.
 
 <p align="center">
-  <img src="github-readme-stats2-zeta-five.vercel.app/api/top-langs/?username=codesfb&layout=compact&hide_border=true&card_width=500&theme=transparent&title_color=58a6ff&text_color=8b949e" alt="Most used languages" />
+  <img src="https://github-readme-stats2-zeta-five.vercel.app/api/top-langs/?username=codesfb&layout=compact&hide_border=true&card_width=500&theme=transparent&title_color=58a6ff&text_color=8b949e" alt="Most used languages" />
 </p>
-
 ---
 
 ## Currently Working On
