@@ -1,6 +1,8 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&center=true&vCenter=true&width=600&lines=Fabio+Santana;Software+Engineering+Student;Full-stack+Developer" alt="Fabio Santana" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&center=true&vCenter=true&width=600&lines=Fabio+Santana;Software+Engineer;Full+Stack+Software+Engineer" alt="Fabio Santana" />
 </h1>
+
+Software Engineering student and full stack engineer from Brazil. I build software that solves real problems, with a focus on clean architecture and well-designed systems.
 
 I'm a Brazilian Software Engineering student and full-stack developer. I enjoy building software that solves real problems and learning new technologies along the way.
 
